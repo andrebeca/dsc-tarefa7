@@ -1,0 +1,24 @@
+div {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black; 
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+#borda {
+    border: 2px solid black;
+}
+#borda:hover {
+    background-color: aqua;
+}
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
